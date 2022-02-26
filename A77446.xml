@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief narrative of the great victorie, which it hath pleased God to give to the Armie of this Common-wealth against the Scots Armie, near Dunbar, in Scotland, on Tuesdaie morning, the third of this instant September, related to the Council of State by an express messenger of the Lord General, sent from the Armie; which messenger was present at the action.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77446</idno>
+            <idno type="STC">Wing B4613</idno>
+            <idno type="STC">Thomason E612_7</idno>
+            <idno type="STC">ESTC R206480</idno>
+            <idno type="EEBO-CITATION">99865635</idno>
+            <idno type="PROQUEST">99865635</idno>
+            <idno type="VID">117883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117883)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E612[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief narrative of the great victorie, which it hath pleased God to give to the Armie of this Common-wealth against the Scots Armie, near Dunbar, in Scotland, on Tuesdaie morning, the third of this instant September, related to the Council of State by an express messenger of the Lord General, sent from the Armie; which messenger was present at the action.</title>
+               </titleStmt>
+               <extent>[4], 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Du-gard, by the appointment of the Council of State,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sber. 7th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117883:1" rendition="simple:additions"/>
+            <p>A Brief <hi>Narrative</hi> OF The great Victorie, which it hath pleaſed God to give to the Armie of this <hi>Common-wealth</hi> againſt the <hi>Scots</hi> Armie, near <hi>Dunbar,</hi> in <hi>Scotland,</hi> on Tueſdaie morning, the third of this inſtant <hi>September,</hi> related to the <hi>Council</hi> of <hi>State</hi> by an expreſs Meſſenger of the Lord General, ſent from the Armie; which Meſſenger was preſent at the Action.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <add>7<hi rend="sup">ber</hi> 7<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed by <hi>William Du gard,</hi> by the appointment of the <hi>Council</hi> of <hi>State.</hi> Anno Dom. 1650.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:117883:2"/>
+            <pb facs="tcp:117883:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Saturni</hi> 7<hi rend="sup">th</hi> Sept. 1650.</date> At the <hi>Council</hi> of <hi>State,</hi> at <hi>Whitehall.</hi>
+               </dateline>
+            </opener>
+            <p>VVHereas it hath pleaſed God to give the <hi>Armie</hi> of this <hi>Common-wealth,</hi> now in <hi>Scotland,</hi> a great Victorie againſt the <hi>Scots,</hi> which coming to the knowledg of the Council this morning, And the Parlament not now ſitting; It is thought fit by the <hi>Council,</hi> and accordingly hereby Ordered, that the following brief <hi>Narrative,</hi> ſhould bee publiſhed in all <hi>Churches</hi> and <hi>Chappels</hi> within the late lines of <hi>Comunication</hi> to Morrow, beeing the eighth of this inſtant <hi>September,</hi> that thanks may bee given to God for ſo great and wonderful a mercie, until the Parlament ſhall give order for a more General and Solemn <hi>Thankſ<g ref="char:EOLhyphen"/>giving.</hi> And that the Lord <hi>Major</hi> and <hi>Sheriffs</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> do cauſ this <hi>Narrative</hi> to bee diſtributed to all <hi>Churches</hi> and <hi>Chappels</hi> within the ſaid late lines of <hi>Communication.</hi> And all the Ministers of the ſaid <hi>Pa<g ref="char:EOLhyphen"/>riſhes</hi> and <hi>Churches</hi> are required to publiſh the ſame <hi>Narrative,</hi> in their ſeveral Congregations, that the people may take notice thereof, and give God praiſ for this his great and ſignal mercie to this Common-wealth.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by Command of the Council of State. GUALTER FROST</hi> Secretarie.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117883:3"/>
+            <pb n="1" facs="tcp:117883:3"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">COR VNVM VIA VNA</q>
+               </figure>
+            </head>
+            <head>A brief <hi>Narration</hi> of the great Victorie, which it hath pleaſed god to give to the Armie of this <hi>Commonwealth,</hi> againſt the <hi>Scots</hi> Armie near <hi>Dunbar</hi> in <hi>Scotland,</hi> on Tueſday morning, the Third of this inſtant <hi>September;</hi> related to the Council of State by an expreſs Meſſenger of the Lord General ſent from the Armie; which Meſſenger was preſent at the Action.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Armie having long faced the <hi>Scot's</hi> Armie to the Weſt of <hi>Edin<g ref="char:EOLhyphen"/>burg,</hi> and finding they could not draw them to fight, thought fit to draw off to <hi>Dunbar,</hi> to refreſh them<g ref="char:EOLhyphen"/>ſelves. And being com to their old Quartrers at <hi>Muſsleborough,</hi> and be<g ref="char:EOLhyphen"/>ginning their march on Saturday night they were preſſed upon by the Scot's Armie cloſe after them, ſo, as they were ſomtimes within a mile, and ſomtimes half a mile of their Armie. Our Armie quartered that night at <hi>Haddington:</hi> Sunday
+<pb n="2" facs="tcp:117883:4"/>morning our Armie marched to <hi>Dunbar,</hi> whither wee came on Sunday night. And their whole Armie followed, con<g ref="char:EOLhyphen"/>ſiſting of eighteen Regiments of Foot, which, together with their Horſ, and Dragoons (as themſelve ſay) were 27000, our Armie about 12000. They there drew up their Armie upon a verie high hill, within a mile of the Town; and ours ſtood in <hi>Battalia</hi> in the Corn-fields, be<g ref="char:EOLhyphen"/>tween them and the Town, readie to engage. Munday morning the Enemie drew down part of the Armie to the foot of the Hill toward our Armie. On munday the Lord General, Major General <hi>Lambert,</hi> and Lievtenant General <hi>Fleetwood,</hi> drew up our men into <hi>Batalia</hi> in the Field, where they ſtood. The Enemie brought down their Train to their Armie, before drawn down, and their Horſ were in the Fields on each wing of their Foot. There was between both Armies a verie great Ditch of 40 or 50 Foot wide, and neer as deep; in the bottom of which was a little rill of water; this place was of great diſadvantage to thoſe who ſhould firſt attempt to paſs it.</p>
+            <p>That night our Armie, by command, marched as cloſe to the ſaid ditch as poſſible they could, and placed their Field Pieces in everie Regiment. Tueſdaie morning at four of the clock wee drew down a <hi>Brigade</hi> conſiſting of three Regiments of Horſ, <hi>viz.</hi> Major General <hi>Lambert's,</hi> Commiſſarie Generall <hi>Whalley's,</hi> and Colonel <hi>Lilborn's;</hi> and two Regiments of Foot toward a Paſs, that is upon the Road-waie, between <hi>Dunbar</hi> and <hi>Barwick,</hi> by which wee might with more eaſ paſs over to their Armie; And there gave the Enemie and hot Alarm, firing hard one at another; the diſpute laſted there above an hour: the iſſue was, our men gained the Ground, and poſſeſſed the Paſs. Then the Enemies Horſ charged ſtrongly, beeing moſt <hi>Lanceers,</hi> and coming down the Hill, our Horſ gave waie a little; but preſently Rallying, and our Foot of that Brigade advan<g ref="char:EOLhyphen"/>cing and charging the Enemie, put them ſuddainly to the Rout, it beeing now about ſix of the Clock in the Morn<g ref="char:EOLhyphen"/>ing: their Foot ſeeing this Rout and the Flying of their
+<pb n="3" facs="tcp:117883:4"/>Horſ, threw down their Arms and Ran awaie; their Left wing of Horſ ſeeing that, fled alſo; our Horſ and Foot both purſued them to, and beyond <hi>Haddington,</hi> cut down and kill'd in the purſuit above four thouſand: and have taken, as near as can bee judg'd, ten thouſand Priſoners, and above then thouſand ſeveral Arms. They left all the Guns they had, behind them, beeing in number nine, with all their Ammunition, bag and baggage, and all they there had. Wee have taken one hundred and eightie Foot-Colors. <hi>Priſoners</hi> of qualitie, brought in before the Meſſenger came awaie, were, Sr James <hi>Lumſdain,</hi> heretofore Governor of <hi>New-Gaſtle;</hi> and now the Lievtenant General osc their Armie; General David <hi>Leſlie's</hi> Lievtenant Colonel: which Lievtenant Colonel ſaith, that hee ſuppoſeth <hi>Da<g ref="char:EOLhyphen"/>vid Leſlie</hi> himſelf is ſlain. Divers other <hi>Captains</hi> and <hi>Offi<g ref="char:EOLhyphen"/>cers,</hi> of whom a particular account was not taken when the Meſſenger came awaie. Wee loſt none after the diſpute for the Paſs; and in that diſpute not above twentie. No Commiſſion-Officer ſlain, or wounded: onely Major <hi>Brown</hi> was ſhot in the Wriſt the day before: Major <hi>Lister</hi> was taken Priſoner; but preſently releaſ'd. Commiſſarie General <hi>Whalley</hi> had his Horſ kill'd under him; but him<g ref="char:EOLhyphen"/>ſelf had no hurt.</p>
+            <p>This is the brief of what was known when the Meſſen<g ref="char:EOLhyphen"/>ger came awaie, which was the ſame day a little after Noon.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
